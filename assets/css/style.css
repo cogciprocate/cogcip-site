@@ -57,7 +57,8 @@ Add transition to containers so they can push in and out.
     margin-left: 160px;
     margin-right:4em;
     height: 50px;
-    width: 100%;
+    /* [NOTE]: Disabled because it was adding a horiz. scrollbar */
+    /*width: 100%;*/
     bottom : 0;
     left: 0;
     clear: both;
