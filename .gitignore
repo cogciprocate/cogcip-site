@@ -2,14 +2,14 @@
 *.o
 *.a
 *.so
-*.jpg
-*.JPG
+# *.jpg
+# *.JPG
 
 # Folders
 _obj
 _test
-assets/images
-assets/fonts
+# assets/images
+# assets/fonts
 
 # Architecture specific extensions/prefixes
 *.[568vq]
